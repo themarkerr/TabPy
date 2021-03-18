@@ -90,6 +90,11 @@ def setup_package():
             "tornado",
             "twisted",
             "urllib3",
+            "usaddress",
+            "pyarrow",
+            "google-cloud-bigquery",
+            "google-cloud-bigquery-storage",
+            "smartystreets-python-sdk"
         ],
         entry_points={
             "console_scripts": [
